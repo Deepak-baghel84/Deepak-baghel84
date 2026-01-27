@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak
 
-<!--
-**Deepak-baghel84/Deepak-baghel84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (AIML) student** passionate about building intelligent and practical AI systems.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- 🤖 Machine Learning & AI
+- 🤖 MLOPS with Langchain and Langsmith
+- 👁️ Computer Vision (YOLO, object detection, tracking)  
+- ⚙️ Backend APIs (FastAPI)  
+- 💬 Chatbots & integrations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently focused on
+- Strengthening **DSA & core CS**
+- Building **real-world, research-oriented projects**
+- Preparing for **internships & industry exposure**
+
+## 🤝 Open to
+- Open-source collaboration  
+- ML / CV projects & research ideas  
+
+📌 *Making complex things simpler, one project at a time.*
