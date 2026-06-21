@@ -19,3 +19,6 @@
 - ML / CV projects & research ideas  
 
 📌 *Making complex things simpler, one project at a time.*
+
+
+![snake gif](https://github.com/Deepak-baghel84/Deepak-baghel84/blob/output/github-contribution-grid-snake.svg)
